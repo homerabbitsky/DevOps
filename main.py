@@ -1,5 +1,3 @@
-''' example module w math added '''
-import unittest
 
 def square(n):
   ''' returns the square of the perameter '''
